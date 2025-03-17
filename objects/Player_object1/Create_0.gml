@@ -5,7 +5,7 @@ move_spd = 1;
 
 sprite[RIGHT] = Player1_Right;
 sprite[UP] = Player1_Up;
-sprite[LEFT] = Player1_Dowm;
-sprite[DOWN] = Player1_Left;
+sprite[LEFT] = Player1_Left;
+sprite[DOWN] = Player1_Dowm;
 
 face = DOWN;
