@@ -42,6 +42,7 @@
     {"id":{"name":"Player1_Left","path":"sprites/Player1_Left/Player1_Left.yy",},},
     {"id":{"name":"Player1_Right","path":"sprites/Player1_Right/Player1_Right.yy",},},
     {"id":{"name":"Player1_Up","path":"sprites/Player1_Up/Player1_Up.yy",},},
+    {"id":{"name":"SpriteHouseTiles","path":"sprites/SpriteHouseTiles/SpriteHouseTiles.yy",},},
     {"id":{"name":"SpriteWall","path":"sprites/SpriteWall/SpriteWall.yy",},},
   ],
   "resourceType":"GMProject",
