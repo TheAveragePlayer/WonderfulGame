@@ -32,5 +32,5 @@
     "path":"sprites/SpriteWall/SpriteWall.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
