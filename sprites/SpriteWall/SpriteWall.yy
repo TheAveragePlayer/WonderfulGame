@@ -19,7 +19,7 @@
   "height":16,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"e424581f-cb42-4b91-9d8a-7d8888aa132b","blendMode":0,"displayName":"default","isLocked":false,"name":"e424581f-cb42-4b91-9d8a-7d8888aa132b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"e424581f-cb42-4b91-9d8a-7d8888aa132b","blendMode":0,"displayName":"default","isLocked":false,"name":"e424581f-cb42-4b91-9d8a-7d8888aa132b","opacity":50.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"SpriteWall",
   "nineSlice":null,

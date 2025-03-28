@@ -43,3 +43,6 @@ if xspd == 0 && yspd == 0
 	{
 	image_index = 0;
 	}
+	
+//depth (add in create event for items with depth)
+depth = -bbox_bottom;
