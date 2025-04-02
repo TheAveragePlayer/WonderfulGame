@@ -44,6 +44,7 @@
     {"id":{"name":"Player1_Left","path":"sprites/Player1_Left/Player1_Left.yy",},},
     {"id":{"name":"Player1_Right","path":"sprites/Player1_Right/Player1_Right.yy",},},
     {"id":{"name":"Player1_Up","path":"sprites/Player1_Up/Player1_Up.yy",},},
+    {"id":{"name":"PlayerSpSht1","path":"sprites/PlayerSpSht1/PlayerSpSht1.yy",},},
     {"id":{"name":"RuinsSprites","path":"sprites/RuinsSprites/RuinsSprites.yy",},},
     {"id":{"name":"SpriteHouseTiles","path":"sprites/SpriteHouseTiles/SpriteHouseTiles.yy",},},
     {"id":{"name":"SpriteLabs","path":"sprites/SpriteLabs/SpriteLabs.yy",},},
