@@ -25,12 +25,21 @@ if yspd > 0 && face == UP {face = DOWN};
 if yspd < 0 && face == DOWN {face = UP};
 sprite_index = sprite[face];
 
-//collisions
+//collision walls
 if place_meeting(x + xspd, y, ObjectWall) == true
 	{
 	xspd = 0;
 	}
 if place_meeting(x, y + yspd, ObjectWall) == true
+	{
+	yspd = 0;
+	}
+//collision objectlabs
+if place_meeting(x + xspd, y, ObjectLabs) == true
+	{
+	xspd = 0;
+	}
+if place_meeting(x, y + yspd, ObjectLabs) == true
 	{
 	yspd = 0;
 	}
