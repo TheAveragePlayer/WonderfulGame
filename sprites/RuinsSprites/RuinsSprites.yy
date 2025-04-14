@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"RuinsSprites",
   "bboxMode":0,
-  "bbox_bottom":79,
+  "bbox_bottom":179,
   "bbox_left":0,
   "bbox_right":199,
   "bbox_top":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":20,
   "gridY":20,
-  "height":100,
+  "height":180,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"a2fc657f-4f7e-4c4d-8943-d30058047813","blendMode":0,"displayName":"default","isLocked":false,"name":"a2fc657f-4f7e-4c4d-8943-d30058047813","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
