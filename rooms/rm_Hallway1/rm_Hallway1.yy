@@ -34,6 +34,7 @@
     {"name":"inst_367B6051","path":"rooms/rm_Hallway1/rm_Hallway1.yy",},
     {"name":"inst_6E536018","path":"rooms/rm_Hallway1/rm_Hallway1.yy",},
     {"name":"inst_259E527A","path":"rooms/rm_Hallway1/rm_Hallway1.yy",},
+    {"name":"inst_7A30496B","path":"rooms/rm_Hallway1/rm_Hallway1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -73,7 +74,9 @@
           42,48,60,-6,61,6,62,48,40,41,24,52,-10,48,4,50,23,5,57,-3,41,4,42,48,48,40,-3,58,3,59,4,35,-3,3,6,24,
           52,48,48,50,23,-3,3,1,36,-4,-2147483648,6,5,52,48,48,50,4,-4,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"RuinsTileSet","path":"tilesets/RuinsTileSet/RuinsTileSet.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRInstanceLayer":"","%Name":"Instances","depth":200,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRInstanceLayer":"","%Name":"Instances","depth":200,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v1","%Name":"inst_7A30496B","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7A30496B","objectId":{"name":"ObjectWarpBlock","path":"objects/ObjectWarpBlock/ObjectWarpBlock.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.25,"scaleY":0.15625,"x":100.0,"y":-4.0,},
+      ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"rm_Hallway1",
